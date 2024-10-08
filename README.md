@@ -7,7 +7,7 @@ The **GitHub Profile Generator** is a web application built using React.js that 
 
 ## Live Demo
 
-You can check out a live demo of the application here: [GitHub Profile Generator Demo](https://gregarious-heliotrope-7cc17e.netlify.app/)
+You can check out a live demo of the application here: [GitHub Profile Generator Demo](http://localhost:3000/)
 
 ## Features
 
