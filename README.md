@@ -7,7 +7,7 @@ The **GitHub Profile Generator** is a web application built using React.js that 
 
 ## Live Demo
 
-You can check out a live demo of the application here: [GitHub Profile Generator Demo](https://octoprofile.vercel.app/)
+You can check out a live demo of the application here: [GitHub Profile Generator Demo](https://gregarious-heliotrope-7cc17e.netlify.app/)
 
 ## Features
 
@@ -37,4 +37,4 @@ Before running the application, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/github-profile-generator.git
+   git clone https://github.com/BAZO-dev/github-profile-generator.git
